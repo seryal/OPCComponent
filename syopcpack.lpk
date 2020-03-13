@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <Package Version="4">
+    <PathDelim Value="\"/>
+    <Name Value="syopcpack"/>
+    <Type Value="RunAndDesignTime"/>
+    <CompilerOptions>
+      <Version Value="11"/>
+      <PathDelim Value="\"/>
+      <SearchPaths>
+        <OtherUnitFiles Value="OPCLib;src"/>
+        <UnitOutputDirectory Value="lib\$(TargetCPU)-$(TargetOS)"/>
+      </SearchPaths>
+    </CompilerOptions>
+    <Files Count="13">
+      <Item1>
+        <Filename Value="syopcdaclient.pas"/>
+        <HasRegisterProc Value="True"/>
+        <UnitName Value="syOPCDAClient"/>
+      </Item1>
+      <Item2>
+        <Filename Value="OPCLib\OPCCOMN.pas"/>
+        <UnitName Value="OPCCOMN"/>
+      </Item2>
+      <Item3>
+        <Filename Value="OPCLib\OPCDA.pas"/>
+        <UnitName Value="OPCDA"/>
+      </Item3>
+      <Item4>
+        <Filename Value="OPCLib\OPCerror.pas"/>
+        <UnitName Value="OpcError"/>
+      </Item4>
+      <Item5>
+        <Filename Value="OPCLib\OPCHDA.pas"/>
+        <UnitName Value="OPCHDA"/>
+      </Item5>
+      <Item6>
+        <Filename Value="OPCLib\OPCSEC.pas"/>
+        <UnitName Value="OPCSEC"/>
+      </Item6>
+      <Item7>
+        <Filename Value="OPCLib\OPCtypes.pas"/>
+        <UnitName Value="OPCtypes"/>
+      </Item7>
+      <Item8>
+        <Filename Value="OPCLib\OPCutils.pas"/>
+        <UnitName Value="OPCutils"/>
+      </Item8>
+      <Item9>
+        <Filename Value="src\sybrowseopcda.pas"/>
+        <UnitName Value="sybrowseopcda"/>
+      </Item9>
+      <Item10>
+        <Filename Value="src\sycommon.pas"/>
+        <UnitName Value="sycommon"/>
+      </Item10>
+      <Item11>
+        <Filename Value="src\sycustomopcdaclient.pas"/>
+        <UnitName Value="sycustomopcdaclient"/>
+      </Item11>
+      <Item12>
+        <Filename Value="src\syopcgroup.pas"/>
+        <UnitName Value="syopcgroup"/>
+      </Item12>
+      <Item13>
+        <Filename Value="src\syopcitem.pas"/>
+        <UnitName Value="syopcitem"/>
+      </Item13>
+    </Files>
+    <RequiredPkgs Count="1">
+      <Item1>
+        <PackageName Value="IDEIntf"/>
+      </Item1>
+    </RequiredPkgs>
+    <UsageOptions>
+      <UnitPath Value="$(PkgOutDir)"/>
+    </UsageOptions>
+    <PublishOptions>
+      <Version Value="2"/>
+      <UseFileFilters Value="True"/>
+    </PublishOptions>
+  </Package>
+</CONFIG>
