@@ -6,7 +6,7 @@ interface
 
 uses
   Windows, ComObj, ActiveX, SysUtils, OPCtypes, OPCDA, OPCutils,
-  Variants, Dialogs, Classes, Contnrs, syopcitem;
+  Variants, Classes, Contnrs, syopcitem;
 
 type
   TOPCDataCallback = class;

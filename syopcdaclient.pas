@@ -5,7 +5,7 @@ unit syOPCDAClient;
 interface
 
 uses
-  Classes, SysUtils, LResources, Forms, Controls, Graphics, Dialogs, sycustomopcdaclient;
+  Classes, SysUtils,  sycustomopcdaclient;
 
 type
   TsyOPCDAClient = class(TsyCustomOPCDAClient)
@@ -29,7 +29,6 @@ implementation
 
 procedure Register;
 begin
-  {$I syopcdaclient_icon.lrs}
   RegisterComponents('Sample', [TsyOPCDAClient]);
 end;
 

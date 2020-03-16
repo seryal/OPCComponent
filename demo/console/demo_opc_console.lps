@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="11"/>
+    <BuildModes Active="Default"/>
+    <Units Count="7">
+      <Unit0>
+        <Filename Value="demo_opc_console.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="105"/>
+        <CursorPos X="16" Y="130"/>
+        <UsageCount Value="21"/>
+        <Loaded Value="True"/>
+      </Unit0>
+      <Unit1>
+        <Filename Value="..\..\src\sycustomopcdaclient.pas"/>
+        <EditorIndex Value="6"/>
+        <CursorPos X="29" Y="8"/>
+        <UsageCount Value="10"/>
+        <Loaded Value="True"/>
+      </Unit1>
+      <Unit2>
+        <Filename Value="..\..\syopcdaclient.pas"/>
+        <UnitName Value="syOPCDAClient"/>
+        <EditorIndex Value="3"/>
+        <CursorPos X="22" Y="8"/>
+        <UsageCount Value="10"/>
+        <Loaded Value="True"/>
+      </Unit2>
+      <Unit3>
+        <Filename Value="..\..\syopcdaclient_icon.lrs"/>
+        <EditorIndex Value="5"/>
+        <TopLine Value="112"/>
+        <CursorPos X="41" Y="4"/>
+        <UsageCount Value="10"/>
+        <Loaded Value="True"/>
+      </Unit3>
+      <Unit4>
+        <Filename Value="..\..\src\syopcitem.pas"/>
+        <EditorIndex Value="4"/>
+        <TopLine Value="184"/>
+        <CursorPos X="33" Y="63"/>
+        <UsageCount Value="10"/>
+        <Loaded Value="True"/>
+      </Unit4>
+      <Unit5>
+        <Filename Value="..\..\src\syopcgroup.pas"/>
+        <EditorIndex Value="2"/>
+        <UsageCount Value="10"/>
+        <Loaded Value="True"/>
+      </Unit5>
+      <Unit6>
+        <Filename Value="..\..\src\sycommon.pas"/>
+        <EditorIndex Value="1"/>
+        <TopLine Value="38"/>
+        <CursorPos X="16" Y="32"/>
+        <UsageCount Value="10"/>
+        <Loaded Value="True"/>
+      </Unit6>
+    </Units>
+    <JumpHistory Count="18" HistoryIndex="17">
+      <Position1>
+        <Filename Value="demo_opc_console.lpr"/>
+        <Caret Line="9" Column="50"/>
+      </Position1>
+      <Position2>
+        <Filename Value="demo_opc_console.lpr"/>
+        <Caret Line="76" TopLine="7"/>
+      </Position2>
+      <Position3>
+        <Filename Value="..\..\src\sycustomopcdaclient.pas"/>
+        <Caret Line="8" Column="29" TopLine="5"/>
+      </Position3>
+      <Position4>
+        <Filename Value="demo_opc_console.lpr"/>
+        <Caret Line="76" TopLine="43"/>
+      </Position4>
+      <Position5>
+        <Filename Value="..\..\syopcdaclient.pas"/>
+        <Caret Line="8" Column="23"/>
+      </Position5>
+      <Position6>
+        <Filename Value="..\..\syopcdaclient.pas"/>
+        <Caret Line="9" Column="36"/>
+      </Position6>
+      <Position7>
+        <Filename Value="..\..\syopcdaclient.pas"/>
+        <Caret Line="8" Column="22"/>
+      </Position7>
+      <Position8>
+        <Filename Value="demo_opc_console.lpr"/>
+        <Caret Line="51" TopLine="49"/>
+      </Position8>
+      <Position9>
+        <Filename Value="demo_opc_console.lpr"/>
+        <Caret Line="60" Column="44" TopLine="43"/>
+      </Position9>
+      <Position10>
+        <Filename Value="demo_opc_console.lpr"/>
+        <Caret Line="67" Column="50" TopLine="33"/>
+      </Position10>
+      <Position11>
+        <Filename Value="demo_opc_console.lpr"/>
+        <Caret Line="76" Column="50" TopLine="44"/>
+      </Position11>
+      <Position12>
+        <Filename Value="demo_opc_console.lpr"/>
+        <Caret Line="58" TopLine="24"/>
+      </Position12>
+      <Position13>
+        <Filename Value="demo_opc_console.lpr"/>
+        <Caret Line="9" Column="41"/>
+      </Position13>
+      <Position14>
+        <Filename Value="demo_opc_console.lpr"/>
+        <Caret Line="49"/>
+      </Position14>
+      <Position15>
+        <Filename Value="demo_opc_console.lpr"/>
+        <Caret Line="52" Column="69" TopLine="34"/>
+      </Position15>
+      <Position16>
+        <Filename Value="demo_opc_console.lpr"/>
+        <Caret Line="68" Column="25" TopLine="58"/>
+      </Position16>
+      <Position17>
+        <Filename Value="demo_opc_console.lpr"/>
+        <Caret Line="117" Column="56" TopLine="97"/>
+      </Position17>
+      <Position18>
+        <Filename Value="demo_opc_console.lpr"/>
+        <Caret Line="41" Column="13" TopLine="21"/>
+      </Position18>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes Count="0" ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>
