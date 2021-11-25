@@ -161,7 +161,7 @@ var
   Application: TMyOPCDAClient;
 begin
   Application := TMyOPCDAClient.Create(nil);
-  Application.Title:='My OPC Client';
+  Application.Title := 'My OPC Client';
   Application.Run;
   Application.Free;
 end.

@@ -144,7 +144,7 @@ var
   itemValues: array of olevariant;
   itemErrors: array of HRESULT;
   res: HRESULT;
-  i: int64;
+  i: Integer;
   TotalCount: integer;
 begin
   TotalCount := FItemList.Count;
@@ -212,7 +212,7 @@ var
   itemValues: array of olevariant;
   itemErrors: array of HRESULT;
   res: HRESULT;
-  i: int64;
+  i: Integer;
   TotalCount: integer;
 begin
   TotalCount := FItemList.Count;

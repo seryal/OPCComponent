@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <Compiler Value="C:\lazarus_OPC\fpc\bin\x86_64-win64\fpc.exe" Date="1400420749"/>
+  <Params Value=" -Twin32 -Pi386 -MObjFPC -Scghi -O1 -g -gl -l -vewnhibq -FiC:\HOME\git\OPCComponent\demo\console\lib\i386-win32 -FuC:\HOME\git\OPCComponent\lib\i386-win32 -FuC:\lazarus_OPC\lazarus\packager\units\i386-win32 -FuC:\HOME\git\OPCComponent\demo\console\ -FUC:\HOME\git\OPCComponent\demo\console\lib\i386-win32\ -FEC:\HOME\git\OPCComponent\demo\console\ -oC:\HOME\git\OPCComponent\demo\console\demo_opc_console.exe demo_opc_console.lpr"/>
+</CONFIG>

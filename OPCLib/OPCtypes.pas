@@ -34,7 +34,7 @@ type
   PVarTypeList      = ^TVarTypeList;
 
   POleVariant       = ^OleVariant;
-  OleVariantArray   = array[0..high(integer) div 4-50] of OleVariant;
+  OleVariantArray   = array[0..high(Int16) div 4-50] of OleVariant;
   POleVariantArray  = ^OleVariantArray;
 
   PLCID             = ^TLCID;
@@ -48,7 +48,7 @@ type
   SingleArray       = array[0..high(integer) div 4-50] of Single;
   PSingleArray      = ^SingleArray;
 
-  TFileTimeArray    = array[0..high(integer) div 4-50] of TFileTime;
+  TFileTimeArray    = array[0..high(Int16) div 4-50] of TFileTime;
   PFileTimeArray    = ^TFileTimeArray;
 
 implementation
